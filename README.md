@@ -51,3 +51,29 @@
 
 - Skill source: [skills/paper-deep-reading/](skills/paper-deep-reading/)
 - Local install target: `~/.codex/skills/paper-deep-reading/`
+
+### How to Use
+
+This repo includes a Codex skill for DeFi paper deep reading. To install or refresh it locally:
+
+```bash
+mkdir -p ~/.codex/skills
+cp -R skills/paper-deep-reading ~/.codex/skills/
+```
+
+After installation, ask Codex with a paper title, PDF path, arXiv URL, publisher URL, or GitHub/artifact link. Example prompts:
+
+```text
+精读这篇论文：https://arxiv.org/abs/xxxx.xxxxx
+```
+
+```text
+读一下 /path/to/paper.pdf，并整理到 notes/defi/
+```
+
+The skill will:
+
+- create one Chinese deep-reading note under `notes/defi/`
+- focus on motivation, basic idea, method reasoning, evidence, and limitations
+- include a sharp fact-grounded `毒舌评论`
+- update the conference index in this README when appropriate
