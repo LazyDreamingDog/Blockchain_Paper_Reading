@@ -49,6 +49,8 @@
 
 ### The Web Conference / WWW
 
+- 2023
+  - `[DONE]` [【WWW‘2023】BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](notes/defi/【WWW‘2023】bert4eth.md) ([DOI](https://doi.org/10.1145/3543507.3583345), [code](https://github.com/git-disl/BERT4ETH))
 - 2022
   - `[TODO]` [Cyclic Arbitrage in Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf)
 
