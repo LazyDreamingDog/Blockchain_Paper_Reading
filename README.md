@@ -46,3 +46,8 @@
 
 - Template: [notes/_template.md](notes/_template.md)
 - DeFi notes: [notes/defi/](notes/defi/)
+
+## Codex Skill
+
+- Skill source: [skills/paper-deep-reading/](skills/paper-deep-reading/)
+- Local install target: `~/.codex/skills/paper-deep-reading/`
