@@ -70,6 +70,14 @@ For the full note schema, read `references/note-schema.md` when creating or revi
    - Link the index entry to the note file and keep the paper URL accessible.
    - If the venue/year is unknown, add an `Unknown / TBD` section rather than guessing.
 
+9. Sync the completed note to GitHub when working inside this repository.
+   - After the note and index are updated, run `git status --short`.
+   - Stage only files touched by this paper-reading task, usually `README.md`, the note under `notes/defi/`, and any intentionally created paper-specific assets.
+   - Do not stage unrelated user changes.
+   - Commit with `Add paper note: <short paper title>` for a new note or `Update paper note: <short paper title>` for a revision.
+   - Push immediately with `git push`.
+   - If there are no changes, do not create an empty commit. If push fails, report the error clearly and leave the local commit intact.
+
 ## Output Files
 
 When the user wants notes saved in the current repo:

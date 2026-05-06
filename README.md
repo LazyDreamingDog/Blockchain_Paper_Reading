@@ -46,6 +46,7 @@
 
 - Template: [notes/_template.md](notes/_template.md)
 - DeFi notes: [notes/defi/](notes/defi/)
+- Agent workflow: [.agent](.agent)
 
 ## Codex Skill
 
