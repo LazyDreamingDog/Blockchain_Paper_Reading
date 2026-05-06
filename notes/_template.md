@@ -1,10 +1,11 @@
-# Paper Title
+# 【VENUE‘YEAR】Paper Title
 
 ## Metadata
 
 - Title:
 - Authors:
 - Venue / Year:
+- Note Name: 【VENUE‘YEAR】short-title
 - Paper:
 - Code:
 - Dataset / Artifact:

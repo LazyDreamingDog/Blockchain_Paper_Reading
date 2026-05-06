@@ -11,7 +11,7 @@
 ### IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 - 2024
-  - `[DONE]` [DeFiRanger: Detecting DeFi Price Manipulation Attacks](notes/defi/2024-tdsc-defiranger.md) ([DOI](https://doi.org/10.1109/TDSC.2023.3346888))
+  - `[DONE]` [【TDSC‘2024】DeFiRanger: Detecting DeFi Price Manipulation Attacks](notes/defi/【TDSC‘2024】defiranger.md) ([DOI](https://doi.org/10.1109/TDSC.2023.3346888))
 
 ### IEEE S&P
 
