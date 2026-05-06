@@ -13,6 +13,11 @@
 - 2024
   - `[DONE]` [【TDSC‘2024】DeFiRanger: Detecting DeFi Price Manipulation Attacks](notes/defi/【TDSC‘2024】defiranger.md) ([DOI](https://doi.org/10.1109/TDSC.2023.3346888))
 
+### IEEE/ACM ASE
+
+- 2025
+  - `[DONE]` [【ASE‘2025】Detecting Various DeFi Price Manipulations with LLM Reasoning](notes/defi/【ASE‘2025】defiscope.md) ([arXiv](https://arxiv.org/abs/2502.11521), [code](https://github.com/AIS2Lab/DeFiScope))
+
 ### IEEE S&P
 
 - 2024
