@@ -18,6 +18,11 @@
 - 2025
   - `[DONE]` [【ASE‘2025】Detecting Various DeFi Price Manipulations with LLM Reasoning](notes/defi/【ASE‘2025】defiscope.md) ([arXiv](https://arxiv.org/abs/2502.11521), [code](https://github.com/AIS2Lab/DeFiScope))
 
+### NDSS
+
+- 2026
+  - `[DONE]` [【NDSS‘2026】HOUSTON: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols](notes/defi/【NDSS‘2026】houston.md) ([DOI](https://doi.org/10.14722/ndss.2026.241534))
+
 ### IEEE S&P
 
 - 2024
