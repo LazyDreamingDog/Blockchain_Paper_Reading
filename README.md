@@ -23,6 +23,11 @@
 - 2026
   - `[DONE]` [【NDSS‘2026】HOUSTON: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols](notes/defi/【NDSS‘2026】houston.md) ([DOI](https://doi.org/10.14722/ndss.2026.241534))
 
+### Financial Cryptography and Data Security (FC)
+
+- 2026
+  - `[DONE]` [【FC‘2026】Real AI Agents with Fake Memories: Fatal Context Manipulation Attacks on Web3 Agents](notes/defi/【FC‘2026】real-ai-agents-fake-memories.md) ([arXiv](https://arxiv.org/abs/2503.16248), [dataset](https://huggingface.co/datasets/SentientAGI/crypto-agent-safe-function-calling))
+
 ### IEEE S&P
 
 - 2024
