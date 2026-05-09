@@ -13,6 +13,11 @@
 - 2024
   - `[DONE]` [【TDSC‘2024】DeFiRanger: Detecting DeFi Price Manipulation Attacks](notes/defi/【TDSC‘2024】defiranger.md) ([DOI](https://doi.org/10.1109/TDSC.2023.3346888))
 
+### IEEE Transactions on Information Forensics and Security (TIFS)
+
+- 2023
+  - `[DONE]` [【TIFS‘2023】TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](notes/defi/【TIFS‘2023】tracer.md) ([DOI](https://doi.org/10.1109/TIFS.2023.3266162), [code](https://github.com/wuzhy1ng/BlockchainSpider))
+
 ### IEEE/ACM ASE
 
 - 2025
