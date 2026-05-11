@@ -15,6 +15,8 @@
 
 ### IEEE Transactions on Information Forensics and Security (TIFS)
 
+- 2024
+  - `[DONE]` [【TIFS‘2024】Toward Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists](notes/defi/【TIFS‘2024】xblockflow.md) ([DOI](https://doi.org/10.1109/TIFS.2023.3346276), [artifact](https://github.com/lindan113/EthereumHeist))
 - 2023
   - `[DONE]` [【TIFS‘2023】TRacer: Scalable Graph-Based Transaction Tracing for Account-Based Blockchain Trading Systems](notes/defi/【TIFS‘2023】tracer.md) ([DOI](https://doi.org/10.1109/TIFS.2023.3266162), [code](https://github.com/wuzhy1ng/BlockchainSpider))
 
