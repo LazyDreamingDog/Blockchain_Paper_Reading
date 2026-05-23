@@ -59,6 +59,11 @@
 - 2023
   - `[TODO]` [Demystifying DeFi MEV Activities in Flashbots Bundle](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf)
 
+### ACM/SIGAPP Symposium on Applied Computing (SAC)
+
+- 2025
+  - `[DONE]` [【SAC‘2025】Attacking Anonymity Set in Tornado Cash via Wallet Fingerprints](notes/defi/【SAC‘2025】wallet-fingerprints-tornado-cash.md) ([DOI](https://doi.org/10.1145/3672608.3707896))
+
 ### USENIX Security
 
 - 2024
