@@ -61,6 +61,8 @@
 
 ### USENIX Security
 
+- 2024
+  - `[DONE]` [【USENIX‘2024】GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](notes/defi/【USENIX‘2024】guideenricher.md) ([paper](https://www.usenix.org/conference/usenixsecurity24/presentation/de-silva), [code](https://github.com/ucsb-seclab/GUIDE-ENRICHER))
 - 2023
   - `[TODO]` [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf)
 
