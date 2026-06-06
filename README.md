@@ -25,6 +25,11 @@
 - 2025
   - `[DONE]` [【ASE‘2025】Detecting Various DeFi Price Manipulations with LLM Reasoning](notes/defi/【ASE‘2025】defiscope.md) ([arXiv](https://arxiv.org/abs/2502.11521), [code](https://github.com/AIS2Lab/DeFiScope))
 
+### ACM SIGMETRICS / PACM Measurement and Analysis of Computing Systems
+
+- 2026
+  - `[DONE]` [【SIGMETRICS‘2026】Shedding Light on Shadows: Automatically Tracing Illicit Money Flows on EVM-Compatible Blockchains](notes/defi/【SIGMETRICS‘2026】mftracer.md) ([DOI](https://doi.org/10.1145/3771578), [code](https://github.com/blocksecteam/MFTracer/tree/main/codes), [dataset](https://github.com/blocksecteam/MFTracer/tree/main/LaunderNetEvm41))
+
 ### NDSS
 
 - 2026
